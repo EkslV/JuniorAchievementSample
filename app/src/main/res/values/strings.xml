@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sleep safe</string>
+    <string name="snackbtn">Go to settings</string>
+    <string name="snackmessage">You have to grant permission to change settings.</string>
+</resources>

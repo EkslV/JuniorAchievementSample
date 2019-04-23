@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "912761510589",
+    "firebase_url": "https://juniorachievementtvservice.firebaseio.com",
+    "project_id": "juniorachievementtvservice",
+    "storage_bucket": "juniorachievementtvservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912761510589:android:4ce2e2fa209be330",
+        "android_client_info": {
+          "package_name": "com.android.test.juniorachievementtvservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912761510589-m6td9su76bsjd85fd9gfdknp8ao207lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.test.juniorachievementtvservice",
+            "certificate_hash": "ab0dbdc5f3f8518c75012067456552f0f98f00d4"
+          }
+        },
+        {
+          "client_id": "912761510589-ok1f1ltr6mtvs8u9ff6v0dqvjt634b1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKhSMeoPk42kK__GMD06-W1LFwUo6Hlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912761510589-ok1f1ltr6mtvs8u9ff6v0dqvjt634b1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912761510589:android:d2a68e5a65a22b82",
+        "android_client_info": {
+          "package_name": "com.eneryoung.juniorachievementsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912761510589-ok1f1ltr6mtvs8u9ff6v0dqvjt634b1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKhSMeoPk42kK__GMD06-W1LFwUo6Hlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
